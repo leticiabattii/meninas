@@ -1,0 +1,11 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Batom gloss",
+            "descricao": "Nova edição de gloss da marca x.",
+            "preco": 320.00,
+            "imagem": "batom.png"
+        }
+    ]
+}
